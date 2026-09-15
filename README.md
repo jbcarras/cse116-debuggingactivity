@@ -13,3 +13,9 @@ work and what you might need to do to get them working properly.
 
 The class TestRestaurant holds all the provided tests, as well as comments
 explaining what those tests are checking for to help you understand them.
+
+## Grading
+
+From running and debugging the tests you should be able to identify several bugs in the program. You should fix them by modifying the code (`Item.java` and `Restaurant.java`). With all of the bugs fixed, all of the provided tests should pass. You should **not** modify the tests to make them pass. 
+
+When all the provided tests pass, you should run `Zipper.java` and submit the outputted zip file to Autolab. If you've passed all the tests on your end you should get a score of 1.0 indicating that you completed the activity.
