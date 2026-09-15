@@ -1,12 +1,10 @@
-package test;
-
-import main.Item;
-import main.Restaurant;
-import org.junit.Test;
-
 import java.util.ArrayList;
 
 import static org.junit.Assert.assertEquals;
+import org.junit.Test;
+
+import main.Item;
+import main.Restaurant;
 
 public class TestRestaurant {
 
